@@ -6,4 +6,5 @@ Reading Tech Related Book
 - [ ] Patterns
 - [ ] Dive Into Refactoring - Refactoring Guru
 - [ ] Code Complete
-- [ ] System Design
+- [ ] System Design Interview
+- [ ] Algorithms
