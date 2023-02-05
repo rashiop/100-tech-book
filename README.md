@@ -1,5 +1,5 @@
 # 100-tech-book
-Reading Tech Related Book
+To tracks tech related book I want to read
 
 ## Next Read
 - [x] Dive Into Design Patterns - Alexander Shvets 👩🏻‍💻
